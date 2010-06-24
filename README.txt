@@ -4,16 +4,16 @@ hurry.raphael
 Introduction
 ============
 
-This library packages Raphaël_ for `hurry.resource`_. It is aware of Raphaël's
+This library packages Raphael_ for `hurry.resource`_. It is aware of Raphael's
 structure and different modes (normal, minified).
 
 .. _`hurry.resource`: http://pypi.python.org/pypi/hurry.resource
-.. _Raphaël: http://raphaeljs.com/
+.. _Raphael: http://raphaeljs.com/
 
 How to use?
 ===========
 
-You can import Raphaël from ``hurry.raphael`` and ``.need`` it where you want
+You can import Raphael from ``hurry.raphael`` and ``.need`` it where you want
 these resources to be included on a page::
 
   from hurry import raphael
@@ -44,7 +44,7 @@ This section is only relevant to release managers of ``hurry.raphael``.
 When releasing ``hurry.raphael``, an extra step should be taken. Follow the
 regular package `release instructions`_, but before egg generation (``python
 setup.py register sdist upload``) first execute ``bin/raphaelprepare``. This
-will download the Raphaël library and place it in the egg.  (The version number
+will download the Raphael library and place it in the egg.  (The version number
 is currently hardcoded in the hurry.raphael.prepare module).
 
 .. _`release instructions`: http://grok.zope.org/documentation/how-to/releasing-software

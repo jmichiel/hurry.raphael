@@ -1,3 +1,8 @@
-
 *.pyc
 _lib.py
+.installed.cfg
+bin/
+parts/
+develop-eggs/
+hurry.raphael.egg-info/
+raphael-build/

@@ -20,7 +20,7 @@ long_description = (
 setup(
     name='hurry.raphael',
     version=version,
-    description="hurry.resource style resources for Raphaël.",
+    description="hurry.resource style resources for Raphael.",
     long_description=long_description,
     classifiers=[],
     keywords='',
@@ -37,7 +37,7 @@ setup(
         ],
     entry_points={
         'console_scripts': [
-            'hurry.raphaelprepare = hurry.raphael.prepare:main',
+            'raphaelprepare = hurry.raphael.prepare:main',
             ],
         'zest.releaser.prereleaser.middle': [
             'prepare = hurry.raphael.prepare:entrypoint',
