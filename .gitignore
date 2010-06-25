@@ -6,3 +6,4 @@ parts/
 develop-eggs/
 hurry.raphael.egg-info/
 raphael-build/
+dist/
