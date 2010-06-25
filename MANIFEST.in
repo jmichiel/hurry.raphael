@@ -1,2 +1,3 @@
 recursive-include src/hurry/raphael/raphael-build *
 include src/hurry/raphael/_lib.py
+include *.txt
