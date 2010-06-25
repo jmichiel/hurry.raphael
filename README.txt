@@ -1,5 +1,5 @@
 hurry.raphael
-************
+*************
 
 Introduction
 ============
@@ -37,7 +37,7 @@ For grok, depending on `megrok.resource`_ should do it
 .. _Grok: http://grok.zope.org
 
 Preparing hurry.raphael before release
-=====================================
+======================================
 
 This section is only relevant to release managers of ``hurry.raphael``.
 

@@ -21,6 +21,7 @@ setup(
     name='hurry.raphael',
     version=version,
     description="hurry.resource style resources for Raphael.",
+    url = "http://github.com/jmichiel/hurry.raphael",
     long_description=long_description,
     classifiers=[],
     keywords='',
