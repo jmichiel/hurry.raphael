@@ -1,6 +1,7 @@
 *.pyc
 _lib.py
 .installed.cfg
+setup.cfg
 bin/
 parts/
 develop-eggs/
